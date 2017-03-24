@@ -3,7 +3,7 @@ Tools for DEtectiNg and Tracking Infrared Small Target (DENTIST)
 
 
 
-The *DENTIST* provides a collection of **infrared small target detection and tracking ** algorithms in MATLAB.
+The *DENTIST* provides a collection of **infrared small target detection and tracking** algorithms in MATLAB.
 
 
 
