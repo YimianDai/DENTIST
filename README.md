@@ -28,7 +28,7 @@ If you use this library for your publications, please cite it as:
 
 #### Detection
 
-+ NIPPS [(Yimian Dai, 2017)](http://www.sciencedirect.com/science/article/pii/S1350449516303723)
++ NIPPS [(Yimian Dai, 2017)](http://www.sciencedirect.com/science/article/pii/S1350449516303723) **The code is being rewritten and would be uploaded very soon.**
 + RIPT: Coming soon~
 
 
