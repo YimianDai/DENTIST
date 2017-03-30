@@ -1,7 +1,6 @@
 # NIPPS
-MATLAB implementation for the NIPPS model.
-
-
+This matlab code implements the NIPPS model for infrared target-background 
+separation.
 
 ## Citation
 
@@ -17,8 +16,6 @@ If you use this code for your publications, please cite it as:
   pages =    {182 - 194},
 }
 ```
-
-
 
 ## Problems or Questions
 
