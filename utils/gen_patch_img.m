@@ -1,4 +1,4 @@
-function patchImg = gen_patchImg(img, patchSize, slideStep)
+function patchImg = gen_patch_img(img, patchSize, slideStep)
 
 % 2017-03-25
 % This matlab code generates the patch-image for infrared 

@@ -1,4 +1,4 @@
-function recImg = res_patchImg_mean(patchImg, img, patchSize, slideStep)
+function recImg = res_patch_img_mean(patchImg, img, patchSize, slideStep)
 
 % 2017-03-25
 % This matlab code recovers the image from patch-image using 
