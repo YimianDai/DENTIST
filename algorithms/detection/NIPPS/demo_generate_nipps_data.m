@@ -34,12 +34,7 @@ for setId = 11
         lambda = lambdaL / sqrt(min(m, n));        
         [hatA, hatE, ~] = nipps(D, lambda, ratioN);                    
         tarImg = res_patch_img_mean(hatE, img, patchSize, slideStep);
-        
-        tarCube(:, :, imgId) = tarImg;        
+            
         figure; imshow(tarImg, []);
     end % imgId
-%     savePath = '../../../outputs/detection/NIPPS/sepData/';    
-%     saveName = ['set_' num2str(setId) '_L_' num2str(lambdaL) '_N_' ...
-%         num2str(N) '_Cube'];    
-%     save([savePath saveName], 'tarCube');
 end % setId
