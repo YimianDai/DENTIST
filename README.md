@@ -12,6 +12,17 @@ The *DENTIST* provides a collection of **infrared small target detection and tra
 If you use this library for your publications, please cite it as:
 
 ```latex
+@Article{Dai2017,
+  author  = {Y. Dai and Y. Wu},
+  title   = {Reweighted Infrared Patch-Tensor Model With Both Nonlocal and Local Priors for Single-Frame Small Target Detection},
+  journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year    = {2017},
+  volume  = {PP},
+  number  = {99},
+  pages   = {1-16},
+  issn    = {1939-1404},
+  doi     = {10.1109/JSTARS.2017.2700023},
+}
 @Article{Dai2017IP&T81,
   author =   {Yimian Dai and Yiquan Wu and Yu Song and Jun Guo},
   title =    {Non-negative infrared patch-image model: Robust target-background separation via partial sum minimization of singular values },
@@ -29,7 +40,7 @@ If you use this library for your publications, please cite it as:
 #### Detection
 
 + **NIPPS** [(Yimian Dai, *et al*, 2017)](http://www.sciencedirect.com/science/article/pii/S1350449516303723) 
-+ **RIPT** [(Yimian Dai and Yiquan Wu, 2017)](https://arxiv.org/abs/1703.09157)  Coming soon~
++ **RIPT** [(Yimian Dai and Yiquan Wu, 2017)](http://ieeexplore.ieee.org/document/7932858/)  
 
 
 
