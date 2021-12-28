@@ -24,8 +24,8 @@ for col = colPosArr
     for row = rowPosArr
         k = k + 1;
         tmpPatch = reshape(patchTen(:, :, k), [patchSize, patchSize]);
-        accImg(row : row + patchSize - 1, col : col + patchSize - 1) = tmpPatch;
-        weiImg(row : row + patchSize - 1, col : col + patchSize - 1) = onesMat;
+        accImg(row : row + patchSize - 1, col : col + patchSize - 1) += tmpPatch;
+        weiImg(row : row + patchSize - 1, col : col + patchSize - 1) += onesMat;
     end
 end
 
